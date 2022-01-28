@@ -1,18 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="342a6170-34c1-497b-a29e-1e529719cdc7" name="Default Changelist" comment="" />
+    <list default="true" id="342a6170-34c1-497b-a29e-1e529719cdc7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VideoEditorSuff2022/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VideoEditorSuff2022/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VideoEditorSuff2022/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VideoEditorSuff2022/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VideoEditorSuff2022/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VideoEditorSuff2022/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ComminSoon.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ComminSoon.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LeftResizePanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LeftResizePanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/ImageAndVideoThumbSlider.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/ImageAndVideoThumbSlider.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RightResizePanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RightResizePanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MinMaxSliderDemo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MinMaxSliderDemo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TimelineManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TimelineManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VideoTimeline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VideoTimeline.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.brogan89.minmaxslider@ccd930e8f0328aa5c54920a512db1704d03984ed/Editor/MinMaxSliderEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PreviewVideo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LeftResizePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PreviewVideoManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Layout/HorizontalOrVerticalLayoutGroup.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScreenSizeSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VideoDuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.0f6/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TimelineManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.brogan89.minmaxslider@ccd930e8f0328aa5c54920a512db1704d03984ed/Runtime/MinMaxSlider.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -23,10 +48,20 @@
         <option value="$PROJECT_DIR$/Library/PackageCache/com.brogan89.minmaxslider@ccd930e8f0328aa5c54920a512db1704d03984ed/Runtime/MinMaxSlider.cs" />
         <option value="$PROJECT_DIR$/Assets/test.cs" />
         <option value="$PROJECT_DIR$/Assets/ResizePanel.cs" />
-        <option value="$PROJECT_DIR$/Assets/RightResizePanel.cs" />
         <option value="$PROJECT_DIR$/Assets/LeftResizePanel.cs" />
-        <option value="$PROJECT_DIR$/Assets/TimelineManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScreenSizeSetter.cs" />
+        <option value="$PROJECT_DIR$/Assets/PreviewVIdeoManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PreviewVIdeo.cs" />
+        <option value="$PROJECT_DIR$/Assets/VideoDuration.cs" />
         <option value="$PROJECT_DIR$/Assets/VideoTimeline.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimelineManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PreviewVideo.cs" />
+        <option value="$PROJECT_DIR$/Assets/RightResizePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/PreviewVideoManager.cs" />
+        <option value="$PROJECT_DIR$/../../Unity2020/MBitClone/Assets/Plugins/Android/mainTemplate.gradle" />
+        <option value="$PROJECT_DIR$/Assets/dissolveTransitionShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Liquid.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Wobble.cs" />
       </list>
     </option>
   </component>
@@ -76,7 +111,16 @@
       <workItem from="1641444773545" duration="13500000" />
       <workItem from="1641528942363" duration="13382000" />
       <workItem from="1641636211202" duration="8785000" />
-      <workItem from="1641789172819" duration="4796000" />
+      <workItem from="1641789172819" duration="22022000" />
+      <workItem from="1641873220960" duration="16018000" />
+      <workItem from="1641896833749" duration="7462000" />
+      <workItem from="1641969721743" duration="3704000" />
+      <workItem from="1641977842013" duration="1207000" />
+      <workItem from="1641984358548" duration="5428000" />
+      <workItem from="1642046976549" duration="7173000" />
+      <workItem from="1643000810042" duration="6561000" />
+      <workItem from="1643092508407" duration="7012000" />
+      <workItem from="1643108120486" duration="594000" />
     </task>
     <servers />
   </component>
@@ -89,9 +133,77 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1865" height="327" key="GridCell.Tab.0.bottom" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.0.center" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.0.left" timestamp="1643027507722">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507722" />
+    <state width="1865" height="327" key="GridCell.Tab.0.right" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.1.bottom" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.1.center" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.1.left" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.1.right" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.2.bottom" timestamp="1643027507724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507724" />
+    <state width="1865" height="327" key="GridCell.Tab.2.center" timestamp="1643027507724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507724" />
+    <state width="1865" height="327" key="GridCell.Tab.2.left" timestamp="1643027507723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507723" />
+    <state width="1865" height="327" key="GridCell.Tab.2.right" timestamp="1643027507724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507724" />
+    <state width="1865" height="327" key="GridCell.Tab.3.bottom" timestamp="1643027507724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507724" />
+    <state width="1865" height="327" key="GridCell.Tab.3.center" timestamp="1643027507724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507724" />
+    <state width="1865" height="327" key="GridCell.Tab.3.left" timestamp="1643027507724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507724" />
+    <state width="1865" height="327" key="GridCell.Tab.3.right" timestamp="1643027507724">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="327" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1643027507724" />
     <state x="701" y="42" key="RiderGenerateDialog" timestamp="1641637184871">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="701" y="42" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1641637184871" />
+    <state x="560" y="171" width="800" height="708" key="find.popup" timestamp="1641978423432">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="171" width="800" height="708" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1641978423432" />
   </component>
 </project>

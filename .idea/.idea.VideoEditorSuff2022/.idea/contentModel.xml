@@ -6,8 +6,18 @@
     <e p="D:\Unity2022\VideoEditorSuff2022" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="dissolveTransitionShader.shader" t="Include" />
         <e p="LeftResizePanel.cs" t="Include" />
+        <e p="Liquid.shader" t="Include" />
+        <e p="PreviewVIdeo.cs" t="Include" />
+        <e p="PreviewVIdeoManager.cs" t="Include" />
         <e p="RightResizePanel.cs" t="Include" />
+        <e p="Scenes" t="Include">
+          <e p="New Folder" t="Include">
+            <e p="Wobble.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ScreenSizeSetter.cs" t="Include" />
         <e p="test.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
@@ -38,6 +48,7 @@
           </e>
         </e>
         <e p="TimelineManager.cs" t="Include" />
+        <e p="VideoDuration.cs" t="Include" />
         <e p="VideoTimeline.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />

@@ -30,6 +30,8 @@ public class RightResizePanel : MonoBehaviour, IPointerDownHandler, IPointerUpHa
             out previousPointerPosition);
     }
 
+    
+    
     public void OnDrag(PointerEventData data)
     {
         if (rectTransform == null)
@@ -47,10 +49,11 @@ public class RightResizePanel : MonoBehaviour, IPointerDownHandler, IPointerUpHa
             Mathf.Clamp(sizeDelta.x, minSize.x, maxSize.x),
             Mathf.Clamp(sizeDelta.y, minSize.y, maxSize.y)
         );
-
+        
         rectTransform.localPosition = new Vector2(OldPosx + ((sizeDelta.x - OldWidth) / 2), rectTransform.localPosition.y);
         rectTransform.sizeDelta = sizeDelta;
         previousPointerPosition = currentPointerPosition;
+        
     }
 
     public void OnPointerUp(PointerEventData eventData)
@@ -58,4 +61,7 @@ public class RightResizePanel : MonoBehaviour, IPointerDownHandler, IPointerUpHa
         OldWidth = 0;
         OldPosx = 0;
     }
+    
+    
+    
 }
